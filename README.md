@@ -38,33 +38,11 @@
 
 ---
 
-## 🚀 Featured Projects
 
-<!-- Replace REPO_NAME_1 ... REPO_NAME_4 with your real repository names (case-sensitive) -->
-<div align="center">
-  <a href="https://github.com/ayushshivam423/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushshivam423&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/ayushshivam423/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushshivam423&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-  <br/>
-  <a href="https://github.com/ayushshivam423/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushshivam423&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" alt="Project 3" />
-  </a>
-  <a href="https://github.com/ayushshivam423/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushshivam423&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" alt="Project 4" />
-  </a>
-</div>
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayushshivam423&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshivam423&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
 
 ### 🔥 Contribution Streak
 
@@ -72,25 +50,11 @@
   <img src="https://streak-stats.demolab.com/?user=ayushshivam423&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushshivam423&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushshivam423&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
 
 
 
----
+
+
 
 ## 🌐 Connect With Me
 
