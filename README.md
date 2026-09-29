@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 A passionate **Frontend Developer** from India 🇮🇳
+- 🎓 A passionate **Full stack developer** from India 🇮🇳
 - 🔭 Currently building projects with **React** and **Tailwind CSS**
 - 🌱 Always learning new **frontend tools and best practices**
 - 💬 Ask me about **HTML, CSS, JavaScript, React and Tailwind CSS**
