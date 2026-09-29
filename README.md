@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Ayush%20Shivam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full%20Stack%20Enthusiast&descAlignY=58&descSize=20" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Ayush%20Shivam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20Experiences&descAlignY=58&descSize=20" alt="Header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Shivam;Frontend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+build+clean%2C+fast+web+experiences;Learning+Full+Stack+Development+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayush+Shivam;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+build+clean%2C+fast+web+experiences;Crafting+pixel-perfect+UIs+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,10 +19,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 A passionate **  Web Developer** from India 🇮🇳
-- 🔭 Currently building projects with **React**, **Tailwind CSS** and **MongoDB**
-- 🌱 Learning **Full Stack Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, React and Full Stack Dev**
+- 🎓 A passionate **Frontend Developer** from India 🇮🇳
+- 🔭 Currently building projects with **React** and **Tailwind CSS**
+- 🌱 Always learning new **frontend tools and best practices**
+- 💬 Ask me about **HTML, CSS, JavaScript, React and Tailwind CSS**
 - ⚡ Fun fact: I love turning ideas into pixels on the screen
 - 📫 Reach me at **[ayushshivam423@gmail.com](mailto:ayushshivam423@gmail.com)**
 
@@ -89,6 +89,8 @@
 ---
 
 
+
+---
 
 ## 🌐 Connect With Me
 
