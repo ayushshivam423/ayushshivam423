@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushshivam423" alt="ayushshivam423" /></a> </p>
 
-- 🔭 I’m currently working on [myntra-clone](https://github.com/ayushshivam423/myntra-clone)
 
 - 💬 Ask me about **Full Stack Dev**
 
