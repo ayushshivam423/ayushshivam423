@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 A passionate **Frontend Developer** from India 🇮🇳
+- 🎓 A passionate **  Web Developer** from India 🇮🇳
 - 🔭 Currently building projects with **React**, **Tailwind CSS** and **MongoDB**
 - 🌱 Learning **Full Stack Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, React and Full Stack Dev**
@@ -88,17 +88,7 @@
 
 ---
 
-## 🐍 Contribution Snake (optional)
 
-<!-- Needs the GitHub Action described in the setup notes. Delete this section if you skip it. -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushshivam423/ayushshivam423/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ayushshivam423/ayushshivam423/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
